@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Layla",
+  "base_artist": "Derek & The Dominos",
+  "createdAt": "2026-03-04T08:12:30.052770Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Layla - 40th Anniversary Version / 2010 Remastered",
+      "artist": "Derek & The Dominos",
+      "has_synced": true,
+      "path": "select/01_Layla_-_40th_Anniversary_Version___2010_Remastered_Derek_&_The_Dominos.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Layla",
+      "artist": "Eric Clapton feat. Derek & The Dominos",
+      "has_synced": true,
+      "path": "select/02_Layla_Eric_Clapton_feat._Derek_&_The_Dominos.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Layla (Album Version)",
+      "artist": "Eric Clapton Derek & The Dominos",
+      "has_synced": true,
+      "path": "select/03_Layla_(Album_Version)_Eric_Clapton_Derek_&_The_Dominos.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Layla",
+      "artist": "Derek & The Dominos",
+      "has_synced": true,
+      "path": "select/04_Layla_Derek_&_The_Dominos.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Layla",
+      "artist": "Derek And The Dominos",
+      "has_synced": true,
+      "path": "select/05_Layla_Derek_And_The_Dominos.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Layla - Live at Party At The Palace, June 3, 2002",
+      "artist": "Eric Clapton",
+      "has_synced": false,
+      "path": "select/06_Layla_-_Live_at_Party_At_The_Palace,_June_3,_2002_Eric_Clapton.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Layla (Acoustic Live)",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/07_Layla_(Acoustic_Live)_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Roo Dast (Layla)",
+      "artist": "Mohsen Namjoo",
+      "has_synced": true,
+      "path": "select/08_Roo_Dast_(Layla)_Mohsen_Namjoo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Layla",
+      "artist": "Derek & The Dominos",
+      "has_synced": true,
+      "path": "select/09_Layla_Derek_&_The_Dominos.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Layla (Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 1999 Remaster)",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/10_Layla_(Acoustic;_Live_at_MTV_Unplugged,_Bray_Film_Studios,_Windsor,_England,_UK,_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Layla",
+      "artist": "Derek and the Dominos",
+      "has_synced": true,
+      "path": "select/11_Layla_Derek_and_the_Dominos.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Layla",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/12_Layla_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Layla (Unplugged Version)",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/13_Layla_(Unplugged_Version)_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Layla",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/14_Layla_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Layla",
+      "artist": "Derek & The Dominos",
+      "has_synced": true,
+      "path": "select/15_Layla_Derek_&_The_Dominos.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Layla",
+      "artist": "Eric Clapton with Mark Knopfler and Elton John",
+      "has_synced": false,
+      "path": "select/16_Layla_Eric_Clapton_with_Mark_Knopfler_and_Elton_John.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Layla",
+      "artist": "Cairokee",
+      "has_synced": true,
+      "path": "select/17_Layla_Cairokee.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Layla",
+      "artist": "Derek & The Dominos",
+      "has_synced": false,
+      "path": "select/pl_01_Layla_Derek_&_The_Dominos.txt"
+    }
+  ]
+}
